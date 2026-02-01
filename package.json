@@ -23,7 +23,11 @@
     "@types/toastr": "^2.1.43",
     "@typescript-eslint/parser": "^8.54.0",
     "@vitejs/plugin-vue": "^6.0.3",
+<<<<<<< HEAD
     "autoprefixer": "^10.4.23",
+=======
+    "autoprefixer": "^10.4.24",
+>>>>>>> 47739c7bc2761a18e033c0644fb9f0f5f485b52e
     "css-loader": "^7.1.3",
     "eslint": "^9.39.2",
     "eslint-config-prettier": "^10.1.8",
